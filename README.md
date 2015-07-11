@@ -8,3 +8,4 @@ Webapp: http://jberglinds.github.io/fotografiska/
 * Jonas Isacson
 * Matteus Hast
 * Mikael Forsmark
+* Albin Remnestål
